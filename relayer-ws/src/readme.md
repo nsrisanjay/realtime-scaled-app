@@ -2,4 +2,4 @@
 
 
 
-here insteaf of a Pubsub(publicher/Subscriber) we are using another websocket server acting as a message broker
+here instead of a Pubsub(publisher/Subscriber) we are using another websocket server acting as a message broker.
